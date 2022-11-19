@@ -4,6 +4,8 @@ my project link:
 
 https://heroku-app-c-zxck5.vercel.app/
 
+Please check task distribution documents as well
+
 What is really amazing is the you can sign in and the user information is stored in json object!
 Please don't refresh the page, then it will store all the information including user, food, and the food that you have picked as my recipe!
 
