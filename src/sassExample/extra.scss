@@ -1,0 +1,14 @@
+@use "shared";
+
+
+.item{
+  @extend .itembase;
+  color:shared.$font-name;
+  
+}
+
+.itembase{
+  color:red !important;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+}

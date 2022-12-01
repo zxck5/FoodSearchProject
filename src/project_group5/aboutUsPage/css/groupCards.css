@@ -1,0 +1,9 @@
+.group-cards-container {
+  padding: 3% 0;
+  width: 90%;
+  margin: 0 auto;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}

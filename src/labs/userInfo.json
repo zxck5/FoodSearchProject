@@ -1,0 +1,31 @@
+{
+    "nicknames" : [
+        {
+            "accountNum" : 1,
+            "nickname" : "John",
+            "id" : "johnId",
+            "imgUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/John_Cena_July_2018.jpg/440px-John_Cena_July_2018.jpg",
+            "name" : "Joe",
+            "description" : "hello fellow, my name is John"
+        },
+        {
+            "accountNum" : 2,
+            "nickname" : "car",
+            "id" : "carlId",
+            "imgUrl" : "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?fit=crop&format=jpg&crop=4560,2565,x790,y784,safe",
+            "name" : "Car",
+            "description" : "I like cars"
+        },
+        {
+            "accountNum" : 3,
+            "nickname" : "dog",
+            "id" : "dogId",
+            "imgUrl" : "https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2022/02/KOA_Nassau_2697x1517.jpg?itok=iQEwihUn",
+            "pw": 1236,
+            "name" : "Doggy",
+            "description" : "I love dogs"
+        }
+
+
+    ]
+}

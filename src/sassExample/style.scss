@@ -1,0 +1,8 @@
+@use "shared";
+
+.App {
+  font-family:shared.$font-name;
+  text-align: left;
+  color:shared.$color;
+  font-size: shared.pow(3,3) * 1px;
+}

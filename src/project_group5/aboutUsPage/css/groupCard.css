@@ -1,0 +1,14 @@
+.group-card-container {
+  display: grid;
+  grid-auto-rows: auto;
+
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 5px 10px 10px #727171;
+  background-color: rgb(227, 205, 205);
+}
+
+.group-card-container > div > p {
+  padding-top: 0.7rem;
+  line-height: 1.6;
+}
